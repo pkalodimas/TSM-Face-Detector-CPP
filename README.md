@@ -11,7 +11,7 @@ Change the <outputType> xml object value to
 - x1x (binary) for export the results in image file (decimal ex 2,3,6,7)
 - 1xx (binary) for export the results in visually in the screen (decimal ex 4,5,6,7)
 
-Change the <version> xml object value to
+Change the "version" xml object value to
 - 2 for using the version 2.2 of the TSM system
 - Any other value uses the version 3.2 of the TSM system
 
