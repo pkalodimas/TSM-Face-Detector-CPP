@@ -5,7 +5,7 @@ The TSM algorithm is implemented using the default patches described in the mast
 The alternative patches are not included in any of the versions.
 
 ### Settings.xml Info
-Change the settings xml file contents according to your needs (see user manual).
+Change the settings xml file contents according to your needs (see user manual "/documentation" folder).
 Change the <outputType> xml object value to
 - xx1 (binary) for export the results in XML file (decimal ex. 1,3,5,7)
 - x1x (binary) for export the results in image file (decimal ex 2,3,6,7)
