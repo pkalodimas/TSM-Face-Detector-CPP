@@ -12,8 +12,8 @@ Change the <outputType> xml object value to
 - 1xx (binary) for export the results in visually in the screen (decimal ex 4,5,6,7)
 
 Change the <version> xml object value to
--2 for using the version 2.2 of the TSM system
--Any other value uses the version 3.2 of the TSM system
+- 2 for using the version 2.2 of the TSM system
+- Any other value uses the version 3.2 of the TSM system
 
 # Build and Run
 Export the containing files and folder in a directory of your choice.
